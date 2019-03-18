@@ -4,7 +4,7 @@ fontmake does not support two axes + bracket layers. One axis + bracket layer, s
 
 ### good
 
-4. `OpenSans-Roman-VF.ttf` and `OpenSans-Italic-VF.ttf` are hinted fonts with the variable substitutions working correctly
+1. `OpenSans-Roman-VF.ttf` and `OpenSans-Italic-VF.ttf` are hinted fonts with the variable substitutions working correctly
 2. 
 3. 
 
