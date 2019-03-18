@@ -4,7 +4,7 @@ fontmake does not support two axes + bracket layers. One axis + bracket layer, y
 
 ### good
 
-1. `OpenSans-Roman-VF.ttf` and `OpenSans-Italic-VF.ttf` are hinted fonts with the variable substitutions working correctly
+1. `OpenSans-Roman-VF.ttf` and `OpenSans-Italic-VF.ttf` are hinted fonts with the variable glyph substitutions (a/k/a bracket layers) working correctly
 2. Roman kerns match 100%
 3. Hinted instances look like they match 100% according to diffenator
 
@@ -23,7 +23,7 @@ fontmake does not support two axes + bracket layers. One axis + bracket layer, y
 ### notes on diffs
 
 1. Mac names are gone now
-1. all combining accents now have zeroed sidebearings to match best practices and so they diff
+1. all combining accents now have zeroed sidebearings to match best practices and, therefore, they diff
 1. `uni0478` / `Ѹ` renders incorrectly in ExtraBold & -Condensed: metrics and shaping is correct in source
 2. `.numr` or `superior` figures appear to be rendering incorrectly: they match in source
 3. `g894` is an unencoded accent and shows incorrect metrics but sources match
