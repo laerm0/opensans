@@ -6,7 +6,7 @@ fontmake does not support two axes + bracket layers. One axis + bracket layer, y
 
 1. `OpenSans-Roman-VF.ttf` and `OpenSans-Italic-VF.ttf` are hinted fonts with the variable substitutions working correctly
 2. Roman kerns match 100%
-3. 
+3. Hinted instances look like they match 100% according to diffenator
 
 ### to-dos
 
