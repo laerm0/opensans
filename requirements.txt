@@ -1,0 +1,6 @@
+
+fonttools[ufo,woff,lxml] --install-option="--with-zopfli"
+fontmake
+fs
+fontbakery
+protobuf>=3.7.0
